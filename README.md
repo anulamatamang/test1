@@ -6,7 +6,7 @@ Steps to reproduce this experiment:
 
 2. Clone the repository on your machine.
 
-3. Build an container using the Dockerfile in the folder using the following command in terminal
+3. Build a container using the Dockerfile in the folder using the following command in terminal
 
    docker build -t my-test1-image
    
