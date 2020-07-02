@@ -8,7 +8,7 @@ Steps to reproduce this experiment:
 
 3. Build a container using the Dockerfile in the folder using the following command in terminal
 
-   docker build -t my-test1-image
+   docker build -t my-test1-image .
    
 4. The above command will make an image named "my-test1-image" in your host system
 
